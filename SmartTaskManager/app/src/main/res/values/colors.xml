@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="primaryColor">#2196F3</color> <!-- Blue -->
+    <color name="primaryDarkColor">#1976D2</color>
+    <color name="accentColor">#FF9800</color> <!-- Orange -->
+    <color name="backgroundColor">#F5F5F5</color>
+    <color name="textPrimary">#212121</color>
+    <color name="textSecondary">#757575</color>
+</resources>
